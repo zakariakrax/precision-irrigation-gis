@@ -166,7 +166,6 @@ with tabs[6]:
     - **Copernicus Data Space:** Sentinel imagery access — https://dataspace.copernicus.eu/
     - **CHIRPS precipitation:** https://www.chc.ucsb.edu/data/chirps
     - **ERA5-Land:** https://cds.climate.copernicus.eu/
-    - **SoilGrids:** https://soilgrids.org/
     The current app has no paid API, no subscription and no API key requirement. Automatic satellite downloads are not yet built in; those require a separate connector/setup.
     """)
     st.code("python -m pip install -r requirements.txt\npython -m streamlit run app.py", language="powershell")
