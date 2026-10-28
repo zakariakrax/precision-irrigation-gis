@@ -159,9 +159,9 @@ with tabs[5]:
 with tabs[6]:
     st.subheader("Hna Cv Dyalk")
     st.markdown("""
-    - **libghitih n7adroh
-    - **Chi fanida w dakchi
-    - **daba ha lma39ol ressources
+    - libghitih n7adroh
+    - Chi fanida w dakchi
+    - daba ha lma39ol ressources
     - **Google Earth Engine:** research platform with free access subject to account eligibility and terms — https://earthengine.google.com/
     - **Copernicus Data Space:** Sentinel imagery access — https://dataspace.copernicus.eu/
     - **CHIRPS precipitation:** https://www.chc.ucsb.edu/data/chirps
