@@ -161,16 +161,12 @@ with tabs[6]:
     st.markdown("""
     - **libghitih n7adroh
     - **Chi fanida w dakchi
-    - ** daba ha lma39ol ressources
+    - **daba ha lma39ol ressources
     - **Google Earth Engine:** research platform with free access subject to account eligibility and terms — https://earthengine.google.com/
     - **Copernicus Data Space:** Sentinel imagery access — https://dataspace.copernicus.eu/
     - **CHIRPS precipitation:** https://www.chc.ucsb.edu/data/chirps
     - **ERA5-Land:** https://cds.climate.copernicus.eu/
     - **SoilGrids:** https://soilgrids.org/
-
-    The current app has no paid API, no subscription and no API key requirement. Automatic satellite downloads are not yet built in; those require a separate connector/setup.
-    """)
-    st.code("python -m pip install -r requirements.txt\npython -m streamlit run app.py", language="powershell")
 
 st.divider()
 st.caption("kijak had demo interface a faty hhhh.")
