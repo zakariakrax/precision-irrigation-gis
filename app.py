@@ -172,4 +172,5 @@ with tabs[6]:
     st.code("python -m pip install -r requirements.txt\npython -m streamlit run app.py", language="powershell")
 
 st.divider()
-st.caption("Free academic prototype. Defaults are illustrative, not agronomic recommendations. Validate inputs and outputs before real-world use.")
+st.caption("kijak had demo interface a faty hhhh.")
+
