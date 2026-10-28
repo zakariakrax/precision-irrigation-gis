@@ -157,10 +157,11 @@ with tabs[5]:
     st.write("Continuous estimates: MAE, RMSE, bias, R². Crop classification: precision, recall, F1 and confusion matrix. Water-management outcomes require independent data; do not claim water savings without suitable evidence.")
 
 with tabs[6]:
-    st.subheader("Free software and data")
+    st.subheader("Hna Cv Dyalk")
     st.markdown("""
-    - **Python + Streamlit:** free and open-source for running this local application.
-    - **QGIS:** free desktop GIS — https://qgis.org/
+    - **libghitih n7adroh
+    - **Chi fanida w dakchi
+    - ** daba ha lma39ol ressources
     - **Google Earth Engine:** research platform with free access subject to account eligibility and terms — https://earthengine.google.com/
     - **Copernicus Data Space:** Sentinel imagery access — https://dataspace.copernicus.eu/
     - **CHIRPS precipitation:** https://www.chc.ucsb.edu/data/chirps
