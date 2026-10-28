@@ -169,6 +169,7 @@ with tabs[6]:
     """)
     st.code("Hanti wa9tma khasak chi haja. Chatgpt ra3i rasmi ", language="powershell")
     st.code("Yallah Imta Anbddaw Lkhadmi a dik l3ab9ariya ", language="powershell")
+    st.code("Rah bghina amwal tatara3ra3 a zin. njibo lik a lala dow", language="powershell")
 
 st.divider()
 st.caption("kijak had demo interface a faty hhhh.")
