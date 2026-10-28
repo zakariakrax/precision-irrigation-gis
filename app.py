@@ -166,9 +166,9 @@ with tabs[6]:
     - **Copernicus Data Space:** Sentinel imagery access — https://dataspace.copernicus.eu/
     - **CHIRPS precipitation:** https://www.chc.ucsb.edu/data/chirps
     - **ERA5-Land:** https://cds.climate.copernicus.eu/
-    Hanti wa9tma khasak chi haja. Chatgpt ra3i rasmi.
+    st.code("Hanti wa9tma khasak chi haja. Chatgpt ra3i rasmi")
     """)
-    st.code("python -m pip install -r requirements.txt\npython -m streamlit run app.py", language="powershell")
+    st.code("Yallah Imta Anbddaw Lkhadmi a dik l3ab9ariya ", language="powershell")
 
 st.divider()
 st.caption("kijak had demo interface a faty hhhh.")
