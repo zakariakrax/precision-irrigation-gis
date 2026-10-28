@@ -6,7 +6,7 @@ from datetime import date
 
 st.set_page_config(page_title="Precision Irrigation GIS — Free", page_icon="🌱", layout="wide")
 st.title("🌱 Precision Irrigation GIS")
-st.caption("Free academic prototype | Satellite + GIS + crop-water estimates | Morocco-ready workflow")
+st.caption("nsha alah anbdaw khadma hna ila bghiti w ngado internerface f cloud kolchi momkin m3aya")
 
 with st.sidebar:
     st.header("Project settings")
