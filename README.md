@@ -7,11 +7,7 @@ Free Streamlit app prototype for satellite/GIS-supported precision irrigation re
 1. Create a GitHub account if needed.
 2. Create a new **public** GitHub repository, for example `precision-irrigation-gis`.
 3. Upload `app.py`, `requirements.txt`, and `README.md` to the repository root.
-4. Open https://share.streamlit.io/ and sign in with GitHub.
-5. Choose **Create app** (or **Deploy an app**).
 6. Select your repository, branch `main`, and main file path `app.py`.
-7. Click **Deploy**.
-
 ## Run locally on Windows
 
 ```powershell
